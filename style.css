@@ -22,6 +22,7 @@ body {
 #question {
     font-family: "Darumadrop One", serif;
     font-size: 52px; /* Set font size for the question */
+    color: #FFFFFF; 
 }
 
 #options {
@@ -35,7 +36,7 @@ button {
     font-family: "Darumadrop One", serif;
     font-weight: 400;
     background-color: ##FA859C; /* Set button background color */
-    color: #FB607F; /* Set text color to white */
+    color: #FB607F; 
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
