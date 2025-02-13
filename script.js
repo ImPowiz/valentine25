@@ -4,8 +4,8 @@
 function selectOption(option) {
     // Check which option was clicked
     if (option === 'yes') {
-        // Flash rainbow colors
-        flashRainbowColors(function() {
+        
+        function() {
            
             displayBearHeart(); // Display the cat-heart.gif
         });
