@@ -24,7 +24,7 @@ function selectOption(option) {
 }
 
 function flashRainbowColors(callback) {
-    var colors = ['#ff0000', '#ff7f00', '#ffff00', '#00ff00', '#0000ff', '#4b0082', '#9400d3'];
+    var colors = ['#FB607F', '#FB607F', '#FB607F', '#FB607F', '#FB607F', '#FB607F', '#FB607F'];
     var i = 0;
     var interval = setInterval(function() {
         document.body.style.backgroundColor = colors[i];
