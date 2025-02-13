@@ -22,7 +22,7 @@ body {
 #question {
     font-family: "Darumadrop One", serif;
     font-size: 52px; /* Set font size for the question */
-    color: #FFFFFF; 
+    color: white; 
 }
 
 #options {
