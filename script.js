@@ -4,11 +4,7 @@
 function selectOption(option) {
     // Check which option was clicked
     if (option === 'yes') {
-        
-        function() {
-           
             displayBearHeart(); // Display the cat-heart.gif
-        });
     } else if (option === 'no') {
         // Change text on the "No" button to "You sure?"
         document.getElementById('no-button').innerText = 'You sure?'; 
